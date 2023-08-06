@@ -9,7 +9,7 @@ A deep learning model was used for the classification, the details of which are 
 
 Model
 
-CNN 
+CNN(COnvolution Neural Networks)
 
 The CNN consisted of the following layers:
 Conv2D layer: Applies 16 filters of size 3x3 to the input images with a ReLU activation function.
